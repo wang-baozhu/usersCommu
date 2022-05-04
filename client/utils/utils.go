@@ -67,5 +67,5 @@ func (t *Transfer) ReadPkg() (msg common.Message, err error) {
 }
 
 func test222222222() {
-
+	fmt.Println("xixixixi")
 }
