@@ -65,3 +65,7 @@ func (t *Transfer) ReadPkg() (msg common.Message, err error) {
 	return
 
 }
+
+func test() {
+
+}
