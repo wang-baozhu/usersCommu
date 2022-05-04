@@ -66,6 +66,6 @@ func (t *Transfer) ReadPkg() (msg common.Message, err error) {
 
 }
 
-func test() {
+func test222222222() {
 
 }
